@@ -1,16 +1,17 @@
-### Hi there 👋
+# HELLO FRIENDS.
 
-<!--
-**Erick-Ngooh/Erick-Ngooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Je suis un homme ordinaire. . . qui étudie à l'École 42 Paris.
 
-Here are some ideas to get you started:
+```c
+#include <stdio.h>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main(void)
+{
+  write(1, "hello friends\n");
+  return (0)
+}
+```
+
+## Voici la reprensentaion d'un Homme ordinaire.
+
+![Un homme ordinaire](https://c4.wallpaperflare.com/wallpaper/927/286/500/rick-and-morty-rick-sanchez-wallpaper-preview.jpg)
