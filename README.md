@@ -7,7 +7,7 @@
 
 int main(void)
 {
-write(1, "pureeeeee\n", 10);
+  write(1, "pureeeeee\n", 10);
 }
 ```
 
