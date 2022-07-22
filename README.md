@@ -3,12 +3,11 @@
 ## Je suis un homme ordinaire. . . qui étudie à l'École 42 Paris.
 
 ```c
-#include <stdio.h>
+#include <unistd.h>
 
 int main(void)
 {
-  write(1, "hello friends\n");
-  return (0)
+write(1, "pureeeeee\n", 10);
 }
 ```
 
