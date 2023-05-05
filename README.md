@@ -1,6 +1,6 @@
 # HELLO FRIENDS.
 
-## Je suis un homme ordinaire. . . qui étudie à l'École 42 Paris.
+## Je suis un homme ordinaire. . . .
 
 ```c
   char shellcode[] =
